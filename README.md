@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Diyorbek Rustamjonov's profile!
+  Welcome to Shohusniddinov Abdurahmon's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <br>
@@ -18,17 +18,12 @@
   <img alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
   <img alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  
-  <img  alt="SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/sass/sass-original.svg">
-  
+ 
   <img alt="SCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/less/less-plain-wordmark.svg">
   
   <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
-  <img alt="Gulp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg">
-  
-  <img alt="Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">
-  
+ 
 </div>
 
 <br>
